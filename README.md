@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently studying computer Science at Aarhus University.
+
+- 📫 How to reach me: 202403888@post.au.dk
